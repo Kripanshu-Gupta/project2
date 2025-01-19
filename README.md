@@ -1,3 +1,4 @@
 # New Project
 
-This project wa created from local sysytem
+This project was created from local sysytem
+Created by Kripanshu
